@@ -1,2 +1,0 @@
-# abstractaTest
-Automation tests
